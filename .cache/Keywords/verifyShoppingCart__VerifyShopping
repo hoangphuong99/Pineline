@@ -1,0 +1,78 @@
+{
+  "keywordFileContentHash": "B013CCBDC274E33D01E5EC460B1D4F27",
+  "keywordClasses": [
+    {
+      "name": "verifyShoppingCart.VerifyShopping",
+      "keywordMethods": [
+        {
+          "name": "SignIn",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SignInSucess",
+          "parameters": [
+            {
+              "name": "mail",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "Pass",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyWomenPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyTopsPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyProductPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyCartPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyCartSummaryPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

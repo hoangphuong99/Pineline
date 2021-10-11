@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "CABF30DD3A90E8A604EEFFD2DE17164B",
+  "keywordClasses": [
+    {
+      "name": "lazada.Lazada",
+      "keywordMethods": [
+        {
+          "name": "VerifyHomePage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyResultPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyProductPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "VerifyLazMallPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
